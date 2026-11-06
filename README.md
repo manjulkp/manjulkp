@@ -149,13 +149,44 @@ In my free time I practise new automation tools, build test automation framework
 <br/>
 
 
-## 🚀 Featured Projects
+## 🤖 AI Projects — LLMs from Scratch
+
+<div align="center">
+
+*A 12-project series that builds and tests language-model ideas from the ground up in Python and PyTorch, from a scalar autograd engine to a reasoning-model probe.*
+
+</div>
+
+<div align="center">
+
+| # | Project | What it builds and measures |
+|:-:|:--------|:----------------------------|
+| 01 | [**Micrograd autograd**](https://github.com/manjulkp/01-micrograd) | A scalar autograd engine and small neural network, written from scratch |
+| 02 | [**Optimizer shoot-out**](https://github.com/manjulkp/02-optimizer-shootout) | Compares optimizers and regularization methods on recipe-cuisine prediction |
+| 03 | [**BPE tokenizer**](https://github.com/manjulkp/03-bpe-tokenizer) | Byte pair encoding from scratch; at 10k tokens it matches GPT-2's tokenizer on held-out text |
+| 04 | [**Tiny GPT**](https://github.com/manjulkp/04-tiny-gpt) | A character-level GPT (827k parameters) trained on movie dialogue; validation loss 1.54 vs 2.52 for a bigram model |
+| 05 | [**Modern architecture**](https://github.com/manjulkp/05-modern-architecture) | Adds Flash Attention, RMSNorm, RoPE, grouped-query attention and a KV cache, tested one at a time |
+| 06 | [**Decoding playground**](https://github.com/manjulkp/06-decoding-playground) | Greedy, beam search, temperature, top-k and top-p from scratch, run on GPT-2 |
+| 07 | [**Fine-tune on reviews**](https://github.com/manjulkp/07-finetune-reviews) | Fine-tunes DistilBERT for sentiment (90.5% on Yelp) and tests it on Amazon reviews |
+| 08 | [**Encoder vs decoder**](https://github.com/manjulkp/08-encoder-decoder) | Same-size encoder and decoder models compared on AG News classification |
+| 09 | [**Distillation**](https://github.com/manjulkp/09-distillation) | Trains a tiny student model to imitate the fine-tuned DistilBERT teacher |
+| 10 | [**Scaling law**](https://github.com/manjulkp/10-scaling-law) | A mini Chinchilla experiment: fits loss against model size and training tokens |
+| 11 | [**Mixture of experts**](https://github.com/manjulkp/11-mixture-of-experts) | A toy MoE with a router and load balancing, compared with dense models |
+| 12 | [**Reasoning probe**](https://github.com/manjulkp/12-reasoning-probe) | Measures how much DeepSeek-R1-Distill-Qwen-1.5B gains from thinking on GSM8K maths problems |
+
+</div>
+
+**AI in testing at work:** at IG Group I built an MCP test-generation server and a RAG knowledge base (ChromaDB + Claude API) over a ~90-file pricing codebase, which more than doubled test cases written per sprint.
+
+<br/>
+
+
+## 🚀 Featured Test Automation Projects
 
 <div align="center">
 
 | Project | What it is |
 |:-------|:-----------|
-| 🧠 [**LLMs from Scratch series**](https://github.com/manjulkp?tab=repositories&language=python) | 12 Python projects: [micrograd](https://github.com/manjulkp/01-micrograd), [BPE tokenizer](https://github.com/manjulkp/03-bpe-tokenizer), [tiny GPT](https://github.com/manjulkp/04-tiny-gpt), [distillation](https://github.com/manjulkp/09-distillation), [scaling laws](https://github.com/manjulkp/10-scaling-law), [mixture of experts](https://github.com/manjulkp/11-mixture-of-experts), [reasoning probe](https://github.com/manjulkp/12-reasoning-probe) |
 | 📱 [**AppiumWithPOM**](https://github.com/manjulkp/AppiumWithPOM) | Mobile automation with Appium and the Page Object Model |
 | 🥒 [**RestAssuredCucumber**](https://github.com/manjulkp/RestAssuredCucumber) | BDD API testing with RestAssured + Cucumber |
 | 🧪 [**Book_Catalog_API_WireMock**](https://github.com/manjulkp/Book_Catalog_API_WireMock) | API testing with service mocking in WireMock |
