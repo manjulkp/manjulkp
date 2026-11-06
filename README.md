@@ -7,7 +7,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/manjulkp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/manjula-kp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/manjula-k-puttasetty-82a3858b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:manjulakp29@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/London,_UK-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </div>
@@ -228,7 +228,7 @@ In my free time I practise new automation tools, build test automation framework
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/manjula-kp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manjula-k-puttasetty-82a3858b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:manjulakp29@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
