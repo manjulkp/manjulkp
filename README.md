@@ -2,7 +2,7 @@
 
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manjula%20K%20P&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20SDET%20|%20Trading%20%26%20Pricing%20Systems%20|%20Java%20%2F%20Python%20Test%20Automation&descSize=18&descAlignY=55)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D59FDFF&center=true&vCenter=true&random=false&width=650&lines=20%2B+Years+in+Software+Quality+Engineering;Test+Automation+for+Real-Time+Trading+Systems;Kafka+Event-Driven+Test+Automation;AI-Augmented+Testing+(MCP+%2B+RAG);Quality+is+Engineered%2C+Not+Inspected+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D59FDFF&center=true&vCenter=true&random=false&width=650&lines=20%2B+Years+in+Software+Quality+Engineering;Test+Automation+for+Real-Time+Trading+Systems;Kafka+Event-Driven+Test+Automation;AI-Augmented+Testing+%28MCP+%2B+RAG%29;Quality+is+Engineered%2C+Not+Inspected+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 <div align="center">
